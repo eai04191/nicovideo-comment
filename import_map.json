@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "std/http/": "https://deno.land/std@0.192.0/http/",
+        "std/jsonc/": "https://deno.land/std@0.192.0/jsonc/",
+        "deno-dom-wasm": "https://deno.land/x/deno_dom@v0.1.38/deno-dom-wasm.ts"
+    }
+}
